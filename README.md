@@ -22,7 +22,7 @@ UniMerch is a full-stack e-commerce platform that allows users to browse product
 
 UniMerch/
 │
-├── backend/     # Backend API (Spring Boot / Node.js)
+├── backend/     # Backend API (Spring Boot)
 ├── frontend/    # Frontend (React)
 └── README.md
 
@@ -96,14 +96,23 @@ npm start
 
 ## 👨‍💻 Authors
 
-* A Group Project
-* University of Vavuniya
-
+* 2021/ICT/14  - Yasas Aththanayaka
+* 2021/ICT/29  - Chamikara Madushanka
+* 2021/ICT/33  - Punsisi Nilwala
+* 2021/ICT/57  - Amri
+* 2021/ICT/49  - Nasakath M.N.S.
+* 2021/ICT/68  - Anushka Wijerathna
+* 2021/ICT/78  - Dinithi Wijayasighe
+* 2021?ICT/81  - Hiruna Saranga
+* 2021/ICT/93  - Bisrul Salman
+* 2021/ICT113  - Thamilselvam Thishanthani
+* 2021/ICT/121 - Kabijake
+* (Department of Physical Science ,Faculty of Applied Science University Of Vavuniya)
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed underThishanthani the MIT License.
 
 ---
 
